@@ -15,3 +15,6 @@ Conventional deconvolution methods utilize hand-crafted image priors to constrai
 
 ## Datasets
 VDIP is evaluated on synthetic and real blurred datasets [Lai et al](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/).
+
+## Citation
+Coming soon...
