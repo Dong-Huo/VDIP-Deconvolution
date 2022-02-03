@@ -17,4 +17,11 @@ Conventional deconvolution methods utilize hand-crafted image priors to constrai
 VDIP is evaluated on synthetic and real blurred datasets [Lai et al](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/).
 
 ## Citation
-Coming soon...
+@misc{huo2022blind,
+      title={Blind Image Deconvolution Using Variational Deep Image Prior}, 
+      author={Dong Huo and Abbas Masoumzadeh and Rafsanjany Kushol and Yee-Hong Yang},
+      year={2022},
+      eprint={2202.00179},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
