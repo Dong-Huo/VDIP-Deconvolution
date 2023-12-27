@@ -22,11 +22,12 @@ If you use this code for your research, please cite our paper.
 
 ```
 
-@article{huo2022blind,
+@article{huo2023blind,
   title={Blind Image Deconvolution Using Variational Deep Image Prior},
   author={Huo, Dong and Masoumzadeh, Abbas and Kushol, Rafsanjany and Yang, Yee-Hong},
-  journal={arXiv preprint arXiv:2202.00179},
-  year={2022}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
 }
 
 ```
